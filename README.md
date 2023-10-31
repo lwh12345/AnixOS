@@ -1,5 +1,6 @@
 # AnixOS操作系统
 ![](./note/os.png)
+![os](https://github.com/lwh12345/AnixOS/assets/89498547/3cec458f-3799-4f69-a808-3c351bca5731)
 
 1. 加电
 
@@ -7,7 +8,7 @@
 
 3. 进入主引导扇区 
    1. 清空屏幕
-
+   
    2. 初始化段寄存器
 
    3. 读取 loader
